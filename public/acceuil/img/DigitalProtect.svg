@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120">
+  <!-- Fond blanc -->
+  <rect width="300" height="120" fill="#FFFFFF" rx="15"/>
+
+  <!-- Grand "D" stylisé -->
+  <text x="25%" y="75%" text-anchor="middle" font-family="Georgia, serif" font-size="80" font-weight="bold" fill="#eb2d1f">
+    D
+  </text>
+
+  <!-- "igitalprotect" monté un peu et aligné avec le bas du "D" -->
+  <text x="35%" y="70%" text-anchor="start" font-family="'Trebuchet MS', sans-serif" font-size="28" fill="#eb2d1f">
+    igitalprotect
+  </text>
+</svg>
